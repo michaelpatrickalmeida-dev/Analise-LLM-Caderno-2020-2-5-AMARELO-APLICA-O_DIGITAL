@@ -1,0 +1,19 @@
+Questão 125 - Ciências da Natureza e suas Tecnologias
+
+A composição de um dos refrigerantes mais ácidos mundialmente consumido é mantida em segredo pelos seus produtores. Existe uma grande especulação em torno da "fórmula" dessa bebida, a qual envolve algumas das seguintes substâncias:
+
+**[FIGURA: Fórmulas estruturais de cinco compostos químicos numerados de I a V. I: Vanilina ou um aldeído aromático com grupos hidroxila e metoxi ligados a um anel benzênico. II: Cafeína, uma xantina N-metilada contendo dois grupos carbonila e um anel fundido de imidazol e pirimidina. III: Uma estrutura de glicose (monossacarídeo em projeção de Haworth ou similar) com vários grupos hidroxila e um grupo CH2OH. IV: Ácido fosfórico (H3PO4), mostrando um átomo de fósforo central ligado a um oxigênio por dupla ligação e a três grupos hidroxila (OH). V: Geraniol ou um álcool terpênico acíclico contendo ligações duplas e grupos metila.]**
+
+I    II    III    IV    V
+
+A substância presente nesse refrigerante, responsável pelo seu acentuado caráter ácido, é a
+
+A) I.
+
+B) II.
+
+C) III.
+
+D) IV.
+
+E) V.

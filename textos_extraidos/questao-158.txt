@@ -1,0 +1,17 @@
+Questão 158 - Matemática e suas Tecnologias
+
+O gráfico apresenta a evolução do crescimento de uma determinada árvore, plantada a partir de uma muda com 1 metro de altura. Nessa evolução, a altura da árvore, em metro, é descrita em função do tempo, medido em ano.
+
+[FIGURA: Gráfico de linha cartesianas representando a Altura (m) em função do Tempo (ano). O eixo vertical (Altura) está graduado de 0 a 5,5 com intervalos de 0,5. O eixo horizontal (Tempo) está graduado de 0 a 7 com intervalos de 0,5. A curva começa em (0, 1), mantém-se constante em 1 metro até aproximadamente 1 ano, cresce de forma sigmoide (aproximadamente exponencial no trecho intermediário) atingindo um ponto de inflexão perto de 3 anos, e estabiliza-se assintoticamente próxima a 4,2 metros a partir dos 5 anos até 7 anos.]
+
+No período de 1 ano, contado a partir do instante em que a árvore tinha dois anos e meio de plantio, a variação da altura dessa árvore, em metro, teve valor compreendido entre
+
+A) 0,55 e 0,65.
+
+B) 0,65 e 0,75.
+
+C) 1,05 e 1,15.
+
+D) 1,25 e 1,35.
+
+E) 1,45 e 1,55.

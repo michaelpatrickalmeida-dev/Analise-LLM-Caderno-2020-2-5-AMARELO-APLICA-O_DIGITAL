@@ -1,0 +1,22 @@
+Questão 117 - Ciências da Natureza e suas Tecnologias
+
+Os materiais são classificados pela sua natureza química e estrutural, e as diferentes aplicações requerem características específicas, como a condutibilidade térmica, quando são utilizados, por exemplo, em utensílios de cozinha. Assim, os alimentos são acondicionados em recipientes que podem manter a temperatura após o preparo. Considere a tabela, que apresenta a condutibilidade térmica ($\text{K}$) de diferentes materiais utilizados na confecção de panelas.
+
+[FIGURA: Tabela com duas colunas principais e cinco linhas de dados (além do cabeçalho). O título da tabela é "Condutibilidade térmica de materiais utilizados na confecção de panelas". A primeira coluna é dividida em duas subcolunas: "Material" (com os numerais romanos I a V) e o nome do material correspondente. A segunda coluna apresenta o símbolo "K(kcal h⁻¹ m⁻¹ °C⁻¹)". Os dados linha a linha são:
+- I | Cobre | 332,0
+- II | Alumínio | 175,0
+- III | Ferro | 40,0
+- IV | Vidro | 0,65
+- V | Cerâmica | 0,40]
+
+Qual dos materiais é o recomendado para manter um alimento aquecido por um maior intervalo de tempo?
+
+A) I
+
+B) II
+
+C) III
+
+D) IV
+
+E) V

@@ -1,0 +1,28 @@
+Questão 91 - Ciências da Natureza e suas Tecnologias
+
+Pesquisadores delimitaram Unidades Evolutivas Significativas (UES) de cinco espécies pertencentes a diferentes grupos de vertebrados, distribuídos em oito áreas distintas, como mostra o quadro. Cada UES representa uma população isolada histórica e geneticamente diferenciada e apresenta prioridade para manejo e conservação.
+
+**[FIGURA: Tabela intitulada "Espécie pertencente ao grupo" com colunas para Área, Anfíbio, Ave, Lagarto, Morcego e Roedor, contendo linhas numeradas de 1 a 8 com as respectivas UES (Unidades Evolutivas Significativas):
+- Área 1: Anfíbio (UES5), Ave (UES2), Lagarto (UES1), Morcego (UES1), Roedor (UES3)
+- Área 2: Anfíbio (UES3), Ave (UES1), Lagarto (UES2), Morcego (UES1), Roedor (UES2)
+- Área 3: Anfíbio (UES3), Ave (UES2), Lagarto (UES2), Morcego (UES1), Roedor (UES2)
+- Área 4: Anfíbio (UES4), Ave (UES3), Lagarto (UES3), Morcego (UES2), Roedor (UES3)
+- Área 5: Anfíbio (UES1), Ave (UES3), Lagarto (UES4), Morcego (UES2), Roedor (UES1)
+- Área 6: Anfíbio (UES2), Ave (UES3), Lagarto (UES4), Morcego (UES2), Roedor (UES1)
+- Área 7: Anfíbio (UES5), Ave (UES2), Lagarto (UES1), Morcego (UES1), Roedor (UES2)
+- Área 8: Anfíbio (UES2), Ave (UES1), Lagarto (UES3), Morcego (UES1), Roedor (UES3)
+]**
+
+MIRANDA, N. E. O.; ALMEIDA JR., E. B.; COLLEVATTI, R. G. Priorizando áreas para a conservação com base em Unidades Evolutivas Significativas (ESU). **Genética na Escola**, n. 1, 2015 (adaptado).
+
+Considerando a área 4, a espécie que terá prioridade nas estratégias de conservação pertence a que grupo?
+
+A) Ave
+
+B) Anfíbio
+
+C) Roedor
+
+D) Lagarto
+
+E) Morcego

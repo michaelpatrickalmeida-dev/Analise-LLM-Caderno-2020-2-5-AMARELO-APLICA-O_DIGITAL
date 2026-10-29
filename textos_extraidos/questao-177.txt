@@ -1,0 +1,19 @@
+Questão 177 - Matemática e suas Tecnologias
+
+A figura ilustra a vista superior de um brinquedo gira-gira em um parque de diversões, no qual a linha contínua, em formato circular tendo $O$ como seu centro, indica o assento onde as crianças se posicionam no brinquedo. O ponto $P$ indica a posição ocupada por uma criança, em um instante de tempo $T$, quando o brinquedo está girando continuamente no sentido anti-horário (com $O$ fixo), e velocidade constante por várias voltas.
+
+[FIGURA: Vista superior esquemática mostrando um brinquedo gira-gira circular com centro O e uma criança na posição P na borda, girando no sentido anti-horário. O conjunto está próximo a duas paredes verticais perpendiculares entre si: a "Parede I" (vertical à esquerda) e a "Parede II" (horizontal na parte inferior). O círculo possui linhas pontilhadas diametrais cruzando o centro O.]
+
+O brinquedo está situado nas proximidades de duas paredes verticais e perpendiculares entre si. Seja $D$ a distância de $P$ até a parede I.
+
+O gráfico que melhor representa, em função do tempo $t$ a partir do instante $T$, a distância $D$ é
+
+(A) [FIGURA: Gráfico cartesiano com eixo vertical D e eixo horizontal t. A partir de t = T, há uma curva fechada em formato de círculo.]
+
+(B) [FIGURA: Gráfico cartesiano com eixo vertical D e eixo horizontal t. A partir de t = T, há um segmento de reta vertical.]
+
+(C) [FIGURA: Gráfico cartesiano com eixo vertical D e eixo horizontal t. A partir de t = T, há uma onda senoidal que inicia subindo a partir de um valor intermediário.]
+
+(D) [FIGURA: Gráfico cartesiano com eixo vertical D e eixo horizontal t. A partir de t = T, há uma onda senoidal que inicia descendo a partir de um valor máximo.]
+
+(E) [FIGURA: Gráfico cartesiano com eixo vertical D e eixo horizontal t. A partir de t = T, há uma curva em arco voltada para a esquerda.]

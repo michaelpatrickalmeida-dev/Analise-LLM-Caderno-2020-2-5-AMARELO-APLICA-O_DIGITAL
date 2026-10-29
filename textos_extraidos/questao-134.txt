@@ -1,0 +1,22 @@
+Questão 134 - Ciências da Natureza e suas Tecnologias
+
+Um pesquisador colocou a mesma quantidade de solução aquosa da enzima digestiva pepsina em cinco tubos de ensaio. Em seguida, adicionou massas iguais dos alimentos descritos no quadro. Os alimentos foram deixados em contato com a solução digestiva durante o mesmo intervalo de tempo.
+
+**[FIGURA: Tabela com 6 linhas e 5 colunas. A primeira linha contém os cabeçalhos: "Tubo de ensaio", "Alimento", "Água (%)", "Proteínas (%)", "Lipídios (%)", "Carboidratos (%)". As linhas seguintes detalham os cinco tubos de ensaio: 
+- Tubo I: Leite em pó, Água 3,6%, Proteínas 26,5%, Lipídios 24,8%, Carboidratos 40,1%
+- Tubo II: Manteiga, Água 15,1%, Proteínas 0,6%, Lipídios 82,3%, Carboidratos 0,91%
+- Tubo III: Aveia em flocos, Água 12,3%, Proteínas 12,7%, Lipídios 4,8%, Carboidratos 68,4%
+- Tubo IV: Alface, Água 96,3%, Proteínas 0,9%, Lipídios 0,1%, Carboidratos 2,1%
+- Tubo V: Fubá de milho cozido, Água 74,7%, Proteínas 2,0%, Lipídios 1,1%, Carboidratos 21,9%]**
+
+A maior quantidade de produtos metabolizados ao final do teste foi obtida no tubo
+
+A) I.
+
+B) II.
+
+C) III.
+
+D) IV.
+
+E) V.

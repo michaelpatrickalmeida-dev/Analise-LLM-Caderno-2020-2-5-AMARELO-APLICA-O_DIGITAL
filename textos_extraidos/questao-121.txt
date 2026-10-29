@@ -1,0 +1,21 @@
+Questão 121 - Ciências da Natureza e suas Tecnologias
+
+As pilhas recarregáveis, bastante utilizadas atualmente, são formadas por sistemas que atuam como uma célula galvânica, enquanto estão sendo descarregadas, e como célula eletrolítica, quando estão sendo recarregadas.
+
+Uma pilha é formada pelos elementos níquel e cádmio e seu carregador deve fornecer uma diferença de potencial mínima para promover a recarga. Quanto maior a diferença de potencial gerada pelo carregador, maior será o seu custo. Considere os valores de potencial padrão de redução dessas espécies:
+
+$\text{Ni}^{2+} \text{ (aq)} + 2\text{ e}^- \rightleftharpoons \text{Ni (s)}$  $\quad E^\circ = -0,230\text{ V}$
+
+$\text{Cd}^{2+} \text{ (aq)} + 2\text{ e}^- \rightleftharpoons \text{Cd (s)}$  $\quad E^\circ = -0,402\text{ V}$
+
+Teoricamente, para que um carregador seja ao mesmo tempo eficiente e tenha o menor preço, a diferença de potencial mínima, em volt, que ele deve superar é de
+
+(A) 0,086.
+
+(B) 0,172.
+
+(C) 0,316.
+
+(D) 0,632.
+
+(E) 1,264.

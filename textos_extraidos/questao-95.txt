@@ -1,0 +1,17 @@
+Questão 95 - Ciências da Natureza e suas Tecnologias
+
+O elemento ferro é essencial em nossa alimentação, pois ajuda a prevenir doenças como a anemia. Normalmente, na alimentação é ingerido na forma de $\text{Fe}^{3+}$, sendo necessário o uso de agentes auxiliares de absorção, como o ácido ascórbico (vitamina C), cuja ação pode ser representada pelo esquema reacional a seguir.
+
+**[FIGURA: Esquema de reação química mostrando a oxidação do ácido ascórbico. À esquerda, a molécula do ácido ascórbico (contendo um anel lactônico de 5 membros com duas hidroxilas enólicas, um grupo carbonila e uma cadeia lateral com grupamento diol) reage com 2 íons $\text{Fe}^{3+}$. A seta aponta para os produtos à direita: a molécula de ácido desidroascórbico (onde o anel apresenta agora duas carbonilas nas posições que antes continham as hidroxilas enólicas), acompanhada por 2 íons $\text{Fe}^{2+}$ e 2 prótons $\text{H}^{+}$.]**
+
+A ação do ácido ascórbico ocorre por meio de uma reação de
+
+A) eliminação.
+
+B) substituição.
+
+C) oxirredução.
+
+D) neutralização.
+
+E) hidrogenação.

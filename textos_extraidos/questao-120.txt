@@ -1,0 +1,17 @@
+Questão 120 - Ciências da Natureza e suas Tecnologias
+
+Diversos brinquedos são constituídos de pilhas ligadas a um motor elétrico. A figura mostra uma pilha e um motor acoplados, em que $\varepsilon$ representa a força eletromotriz (FEM) da pilha, $\varepsilon'$ representa a força contraeletromotriz (FCEM) do motor e $r$ e $r'$ são resistências internas. Um problema comum que danifica esses brinquedos é o travamento do eixo do motor.
+
+[FIGURA: O esquema é dividido em duas partes unidas por uma seta apontando para a direita. À esquerda, há um diagrama ilustrativo mostrando um "Gerador (pilha)" retangular com terminais negativo (-) e positivo (+), conectado por fios a uma "Chave" aberta e a um "Motor" cilíndrico que possui um "Eixo" saindo da sua face frontal. À direita, há o respectivo circuito elétrico equivalente: o gerador (pilha) é representado por uma fonte de força eletromotriz $\varepsilon$ em série com sua resistência interna $r$; o motor é representado por uma fonte de força contraeletromotriz $\varepsilon'$ em série com sua resistência interna $r'$; há também uma chave seccionadora ligando ambos os componentes em um circuito fechado.]
+
+O que ocorre com a FCEM e com a energia fornecida pelas pilhas, que ocasiona danos ao motor, quando seu eixo de rotação é travado?
+
+Ⓐ A FCEM iguala-se com a FEM e toda a energia fornecida pela pilha fica armazenada no circuito.
+
+Ⓑ A FCEM sofre grande aumento e toda a energia fornecida pela pilha passa a ser dissipada na forma de calor.
+
+Ⓒ A FCEM inverte a polaridade e toda a energia fornecida pela pilha é devolvida para ela na forma de energia potencial.
+
+Ⓓ A FCEM reduz-se a zero e toda a energia fornecida pela pilha passa a ser dissipada na resistência interna do motor.
+
+Ⓔ A FCEM mantém-se constante e toda a energia fornecida pela pilha continua sendo transformada em energia mecânica.

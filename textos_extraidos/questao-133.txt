@@ -1,0 +1,13 @@
+Questão 133 - Ciências da Natureza e suas Tecnologias
+
+Em um ecossistema é observada a seguinte teia alimentar:
+
+[FIGURA: Diagrama de uma teia alimentar contendo seis caixas de texto com os seguintes organismos: "Aves", "Peixes", "Copépodes", "Moluscos", "Insetos", "Algas", e "Fungos e bactérias". As setas indicam o fluxo de energia e matéria entre eles: "Algas" aponta para "Insetos", "Copépodes", "Moluscos" e "Fungos e bactérias". "Insetos" aponta para "Peixes" e "Copépodes". "Copépodes" aponta para "Peixes" e "Fungos e bactérias". "Moluscos" aponta para "Peixes", "Aves" e "Fungos e bactérias". "Peixes" aponta para "Aves" e "Fungos e bactérias". Há também setas diretas de "Copépodes", "Peixes" e "Aves" para "Fungos e bactérias".]
+
+O menor nível trófico ocupado pelas aves é aquele do qual elas participam como consumidores de
+
+(A) primeira ordem.
+(B) segunda ordem.
+(C) terceira ordem.
+(D) quarta ordem.
+(E) quinta ordem.

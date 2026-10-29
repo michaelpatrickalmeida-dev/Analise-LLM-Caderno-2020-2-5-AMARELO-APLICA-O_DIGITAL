@@ -1,0 +1,29 @@
+Questão 128 - Ciências da Natureza e suas Tecnologias
+
+O reagente conhecido como Kastle-Meyer é muito utilizado por investigadores criminais para detectar a presença de sangue. Trata-se de uma solução aquosa incolor, preparada com zinco metálico, hidróxido de sódio (Reação 1) e indicador (Reação 2). Essa solução, quando em contato com a hemoglobina contida no sangue e na presença de água oxigenada (Reação 3), passa de incolor para vermelha, indicando a presença de sangue no local, conforme as reações descritas.
+
+**Reação 1:**
+
+Zn (s) + 2 NaOH (aq) + 2 H₂O (l) **[FIGURA: Equação química da Reação 1: Zn (s) + 2 NaOH (aq) + 2 H₂O (l) com uma seta indicando aquecimento (triângulo sobre a seta) formando Na₂[Zn(OH)₄] (s) + H₂ (g)]** Na₂[Zn(OH)₄] (s) + H₂ (g)
+
+**Reação 2:**
+
+**[FIGURA: Equilíbrio químico entre a forma oxidada do indicador (vermelha, com anéis aromáticos, ligações duplas conjugadas e grupos hidroxila e ácido carboxílico) e a forma reduzida do indicador (incolor, lactona cíclica com anéis aromáticos e grupos hidroxila), com setas de interconversão indicando redução [H] para a esquerda e oxidação [O] para a direita]**
+
+**Reação 3:**
+
+2 H₂O₂ (aq) **[FIGURA: Seta horizontal apontando para a direita com a palavra "Hemoglobina" escrita acima]** 2 H₂O (l) + O₂ (g)
+
+DIAS FILHO, C. R.; ANTEDOMENICO, E. A perícia criminal e a interdisciplinaridade no ensino de ciências naturais. **Química Nova na Escola**, n. 2, maio 2010 (adaptado).
+
+A mudança de coloração que indica a presença de sangue ocorre por causa da reação do indicador com o(a)
+
+A) sal de Na₂[Zn(OH)₄] na presença de hemoglobina.
+
+B) água produzida pela decomposição da água oxigenada.
+
+C) hemoglobina presente na reação com a água oxigenada.
+
+D) gás oxigênio produzido pela decomposição da água oxigenada.
+
+E) gás hidrogênio produzido na reação do zinco com hidróxido de sódio.

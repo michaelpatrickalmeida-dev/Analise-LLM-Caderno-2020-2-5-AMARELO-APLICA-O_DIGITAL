@@ -1,0 +1,17 @@
+Questão 135 - Ciências da Natureza e suas Tecnologias
+
+Os feromônios de insetos são substâncias responsáveis pela comunicação química entre esses indivíduos. A extração de feromônios para uso agronômico no lugar de pesticidas convencionais geralmente é inviável, pois são encontrados em baixa concentração nas glândulas de armazenamento. Uma das formas de solucionar essa limitação é a síntese em laboratório dos próprios feromônios ou de isômeros que apresentem a mesma atividade. Suponha que o composto apresentado seja um feromônio natural e que seu tautômero seja um potencial substituto.
+
+**[FIGURA: Fórmula estrutural de um aldeído de 3 carbonos (propanal), mostrando uma cadeia carbônica com um grupo carbonila ligado a um hidrogênio (formila) na extremidade direita.]**
+
+Com base na estrutura química desse feromônio, seu potencial substituto é representado pela substância:
+
+Ⓐ **[FIGURA: Fórmula estrutural de um anel ciclopropílico com uma carbonila (ciclopropanona).]**
+
+Ⓑ **[FIGURA: Fórmula estrutural de uma cetona de 3 carbonos (propanona ou acetona), com o grupo carbonila no carbono central.]**
+
+Ⓒ **[FIGURA: Fórmula estrutural de um enol, apresentando uma dupla ligação carbono-carbono com isomeria geométrica e um grupo hidroxila (-OH) ligado a um dos carbonos insaturados.]**
+
+Ⓓ **[FIGURA: Fórmula estrutural de um álcool insaturado de cadeia maior contendo uma dupla ligação e um grupo hidroxila (-OH) terminal.]**
+
+E **[FIGURA: Fórmula estrutural de um aldeído de 4 carbonos (butanal).]**

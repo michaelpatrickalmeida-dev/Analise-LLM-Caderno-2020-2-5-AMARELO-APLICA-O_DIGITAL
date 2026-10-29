@@ -1,0 +1,19 @@
+Questão 140 - Matemática e suas Tecnologias
+
+O gráfico mostra o início da trajetória de um robô que parte do ponto $A\ (2\ ;\ 0)$, movimentando-se para cima ou para a direita, com velocidade de uma unidade de comprimento por segundo, no plano cartesiano.
+
+O gráfico exemplifica uma trajetória desse robô, durante 6 segundos.
+
+[FIGURA: Plano cartesiano com eixos x e y graduados de 0 a 18. O ponto A está localizado em (2, 0). A trajetória do robô é representada por uma linha com setas indicando os movimentos: parte do ponto A (2,0), sobe 1 unidade até (2,1) (1 segundo), move-se para a direita 2 unidades até (4,1) (2 segundos), sobe 1 unidade até (4,2) (1 segundo), e move-se para a direita 2 unidades até (6,2) (2 segundos), totalizando 6 segundos de movimento retratados no gráfico.]
+
+Supondo que esse robô continue essa mesma trajetória, qual será sua coordenada, após 18 segundos de caminhada, contando o tempo a partir do ponto $A$?
+
+A) $(0\ ;\ 18)$
+
+B) $(18\ ;\ 2)$
+
+C) $(18\ ;\ 0)$
+
+D) $(14\ ;\ 6)$
+
+E) $(6\ ;\ 14)$

@@ -1,0 +1,22 @@
+Questão 157 - Matemática e suas Tecnologias
+
+A gerência de uma loja de eletrônicos organizou em um quadro os dados de venda (quantidade e preço unitário) de celulares, impressoras e notebooks de um ano.
+
+**[FIGURA: Tabela com três colunas: "Produto", "Quantidade" e "Preço unitário (R$)". As linhas contêm os seguintes dados:
+- Celular: Quantidade = 300, Preço unitário = 300
+- Impressora: Quantidade = 300, Preço unitário = 200
+- Notebook: Quantidade = 200, Preço unitário = 900]**
+
+Para o ano seguinte, deseja arrecadar 10% a mais do que foi arrecadado naquele ano anterior, vendendo as mesmas quantidades de cada um desses três produtos, mas reajustando apenas o preço do notebook.
+
+O preço de venda a ser estabelecido para um notebook, para o ano seguinte, em real, deverá ser igual a
+
+A) 975,00.
+
+B) 990,00.
+
+C) 1 040,00.
+
+D) 1 065,00.
+
+E) 1 540,00.

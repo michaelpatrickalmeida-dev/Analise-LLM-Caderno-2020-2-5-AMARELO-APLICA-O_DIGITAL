@@ -1,0 +1,19 @@
+Questão 138 - Matemática e suas Tecnologias
+
+O isopor é um material composto por um polímero chamado poliestireno. Todos os produtos de isopor são 100% recicláveis, assim como os plásticos em sua totalidade. O gráfico mostra a quantidade de isopor, em tonelada, que foi reciclada no Brasil nos anos de 2007, 2008 e 2009. Considere que o aumento da quantidade de isopor reciclado ocorrida de 2008 para 2009 repita-se ano a ano de 2009 até 2013 e, a partir daí, a quantidade total reciclada anualmente permaneça inalterada por um período de 10 anos.
+
+**[FIGURA: Gráfico de colunas verticais exibindo a "Quantidade de isopor reciclado (tonelada)" no eixo vertical (variando de 0 a 9 000, com intervalos de 1 000) e os "Anos" no eixo horizontal (2007, 2008 e 2009). A coluna correspondente ao ano de 2007 possui valor 5 040; a de 2008 possui valor 7 200; e a de 2009 possui valor 8 400.]**
+
+Disponível em: www.plastivida.org.br. Acesso em: 31 jul. 2012 (adaptado).
+
+Qual é a quantidade prevista para reciclagem de isopor, em tonelada, para o ano de 2020?
+
+(A) 21 840
+
+(B) 21 600
+
+(C) 13 440
+
+(D) 13 200
+
+(E) 9 800

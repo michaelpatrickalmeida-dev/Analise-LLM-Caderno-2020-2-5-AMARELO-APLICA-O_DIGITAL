@@ -1,0 +1,17 @@
+Questão 143 - Matemática e suas Tecnologias
+
+Um marceneiro visitou 5 madeireiras para comprar tábuas que lhe permitissem construir 5 prateleiras de formato retangular, de dimensões iguais a $30\text{ cm}$ de largura por $120\text{ cm}$ de comprimento cada, tendo como objetivo minimizar a sobra de madeira, podendo, para isso, fazer qualquer tipo de emenda. As dimensões das tábuas encontradas nas madeireiras estão descritas no quadro.
+
+**[FIGURA: Tabela com 3 colunas e 6 linhas (incluindo o cabeçalho). A primeira coluna intitula-se "Madeireira" e contém as linhas I, II, III, IV e V. A segunda coluna intitula-se "Largura (cm)" e contém os valores: 40, 30, 35, 25 e 20, correspondendo a cada uma das madeireiras, respectivamente. A terceira coluna intitula-se "Comprimento (cm)" e contém os valores: 100, 110, 120, 150 e 200, correspondendo a cada uma das madeireiras, respectivamente.]**
+
+Em qual madeireira o marceneiro deve comprar as tábuas para atingir seu objetivo?
+
+A) I
+
+B) II
+
+C) III
+
+D) IV
+
+E) V

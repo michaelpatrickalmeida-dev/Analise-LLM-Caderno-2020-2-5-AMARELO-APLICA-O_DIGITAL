@@ -1,0 +1,19 @@
+Questão 173 - Matemática e suas Tecnologias
+
+Uma fatura mensal de água é composta por uma taxa fixa, independentemente do gasto, mais uma parte relativa ao consumo de água, em metro cúbico. O gráfico relaciona o valor da fatura com o volume de água gasto em uma residência no mês de novembro, representando uma semirreta.
+
+**[FIGURA: Gráfico de uma semirreta em um plano cartesiano. O eixo horizontal (abscissas) é rotulado como "Volume (m³)" e o eixo vertical (ordenadas) é rotulado como "Valor da fatura (R$)". O gráfico mostra uma origem 0 no cruzamento dos eixos. A semirreta inicia no eixo vertical no ponto correspondente ao valor de R$ 17,00 (taxa fixa para volume zero). Ela cresce linearmente até um ponto marcado com um círculo preto, onde o volume no eixo horizontal é igual a 7 e o valor correspondente no eixo vertical é 42,20, indicados por linhas tracejadas perpendiculares aos eixos.]**
+
+Observa-se que, nesse mês, houve um consumo de 7 m³ de água. Sabe-se que, em dezembro, o consumo de água nessa residência, em metro cúbico, dobrou em relação ao mês anterior.
+
+O valor da fatura referente ao consumo no mês de dezembro nessa residência foi
+
+A) superior a R$ 65,00 e inferior a R$ 70,00.
+
+B) superior a R$ 80,00 e inferior a R$ 85,00.
+
+C) superior a R$ 90,00 e inferior a R$ 95,00.
+
+D) superior a R$ 95,00.
+
+E) inferior a R$ 55,00.

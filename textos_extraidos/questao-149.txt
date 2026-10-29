@@ -1,0 +1,17 @@
+Questão 149 - Matemática e suas Tecnologias
+
+Uma empresa deseja construir um edifício residencial de 12 pavimentos, num lote retangular de lados medindo 22 e 26 m. Em 3 dos lados do lote serão construídos muros. A frente do prédio será sobre o lado do lote de menor comprimento. Sabe-se que em cada pavimento $32\text{ m}^2$ serão destinados à área comum (hall de entrada, elevadores e escada), e o restante da área será destinado às unidades habitacionais. A legislação vigente exige que prédios sejam construídos mantendo distâncias mínimas dos limites dos lotes onde se encontram. Em obediência à legislação, o prédio ficará 5 m afastado da rua onde terá sua entrada, 3 m de distância do muro no fundo do lote e 4 m de distância dos muros nas laterais do lote, como mostra a figura.
+
+**[FIGURA: Diagrama esquemático de um lote retangular com dimensões de 26 m de largura por 22 m de altura. Na parte direita, há uma faixa vertical texturizada representando a rua, com o prédio indicado por um retângulo central tracejado e hachurado internamente com linhas tracejadas verticais e horizontais. São indicadas as seguintes cotas de afastamento: 3 m de distância do fundo (lado esquerdo), 5 m de afastamento da rua (lado direito), e 4 m de afastamento em cada uma das duas laterais (superior e inferior). A dimensão total vertical do lote é de 22 m e a horizontal é de 26 m.]**
+
+A área total, em metro quadrado, destinada às unidades habitacionais desse edifício será de
+
+A) $2\ 640$.
+
+B) $3\ 024$.
+
+C) $3\ 840$.
+
+D) $6\ 480$.
+
+E) $6\ 864$.

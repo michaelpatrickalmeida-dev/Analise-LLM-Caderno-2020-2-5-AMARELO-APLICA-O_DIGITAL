@@ -1,0 +1,19 @@
+Questão 161 - Matemática e suas Tecnologias
+
+No projeto de uma nova máquina, um engenheiro encomendou a um torneiro mecânico a fabricação de uma peça, obtida a partir do recorte em um cubo, como ilustrado na figura. Para isso, o torneiro forneceu, juntamente com o desenho tridimensional da peça, suas vistas frontal, lateral e superior, a partir das posições indicadas na figura. Para facilitar o trabalho do torneiro, as arestas dos cortes que ficam ocultos nas três vistas devem ser representadas por segmentos tracejados, quando for o caso.
+
+**[FIGURA: Desenho esquemático mostrando um cubo com um recorte em forma de canaleta vertical em sua face frontal. O cubo está rotulado com três setas indicando as direções de observação: "Vista superior" apontando de cima para baixo, "Vista lateral" apontando da direita para a esquerda, e "Vista frontal" apontando da esquerda inferior em direção à face frontal. Ao lado, há um rótulo "Bloco recortado" com uma miniatura que simplifica a visualização da peça.]**
+
+As vistas frontal, lateral e superior que melhor representam o desenho entregue ao torneiro são
+
+**[FIGURA: Conjunto de cinco alternativas (A, B, C, D, E) contendo, cada uma, três desenhos bidimensionais representando as vistas "Frontal", "Lateral" e "Superior" correspondentes.]**
+
+*(A)* **[FIGURA: Vista Frontal com um quadrado contendo um retângulo vertical central cujas arestas superiores e inferiores vão até as bordas; Vista Lateral contendo um quadrado com duas linhas tracejadas formando um 'L' invertido no canto inferior esquerdo; Vista Superior contendo um quadrado com um quadrado menor na parte inferior.]**
+
+*(B)* **[FIGURA: Vista Frontal com um quadrado contendo um recorte em 'U' invertido; Vista Lateral com quadrado e linhas tracejadas em formato de 'L'; Vista Superior contendo quadrado com um retângulo aberto na parte inferior.]**
+
+*(C)* **[FIGURA: Vista Frontal com quadrado contendo recorte em 'U'; Vista Lateral com quadrado totalmente em branco; Vista Superior com quadrado contendo um quadrado menor na parte inferior.]**
+
+*(D)* **[FIGURA: Vista Frontal idêntica à alternativa A; Vista Lateral idêntica à alternativa A; Vista Superior contendo quadrado com um retângulo aberto na parte inferior.]**
+
+*(E)* **[FIGURA: Vista Frontal com quadrado contendo um retângulo central; Vista Lateral com quadrado e linhas tracejadas em formato de 'L'; Vista Superior com quadrado contendo um quadrado menor na parte inferior.]**

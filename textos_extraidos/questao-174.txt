@@ -1,0 +1,19 @@
+Questão 174 - Matemática e suas Tecnologias
+
+Realizou-se um estudo sobre a violência no Brasil. As taxas obtidas para os homicídios de mulheres de 1980 a 2010 estão registradas no gráfico.
+
+**[FIGURA: Gráfico de linha intitulado "Taxa (em 100 mil mulheres)" no eixo vertical, variando de 2,0 a 5,0, e anos no eixo horizontal, variando de 1980 a 2010. O gráfico mostra a evolução da taxa de homicídios de mulheres ao longo dos anos. Alguns pontos específicos estão destacamente rotulados com "Ano; Valor": em 1980 a taxa é 2,3 ("1980; 2,3"); em 1996 a taxa atinge um pico de 4,6 ("1996; 4,6"); em 2007 a taxa cai para 3,9 ("2007; 3,9"); e em 2010 a taxa sobe para 4,4 ("2010; 4,4"). A linha apresenta oscilações entre esses anos, com uma tendência geral de crescimento da década de 1980 até 1996, seguida por flutuações e uma queda acentuada próxima a 2007, antes de subir novamente até 2010.]**
+
+Disponível em: http://g1.globo.com. Acesso em: 15 ago. 2013 (adaptado).
+
+De acordo com os dados apresentados, o aumento percentual relativo da taxa de 2007 para 2010 foi mais próximo de
+
+A) 11%.
+
+B) 13%.
+
+C) 17%.
+
+D) 50%.
+
+E) 89%.

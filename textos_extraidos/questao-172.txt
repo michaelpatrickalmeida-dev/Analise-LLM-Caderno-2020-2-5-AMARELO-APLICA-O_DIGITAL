@@ -1,0 +1,19 @@
+Questão 172 - Matemática e suas Tecnologias
+
+Prever a dinâmica populacional de um país é de extrema importância, pois com esse conhecimento as políticas públicas em saúde, educação, habitação e infraestrutura poderão ser executadas sem atraso e de forma eficiente. A linha cheia no gráfico mostra a evolução da população brasileira desde 1950 até 2010, e a extrapolação (previsão) até o ano 2050, representada pela linha tracejada, foi feita com base nos censos demográficos realizados até 2010.
+
+**[FIGURA: Gráfico de linha cartesiano que relaciona a "População brasileira (milhão)" no eixo vertical (variando de 0 a 250 em intervalos de 25) com o "Ano" no eixo horizontal (variando de 1950 a 2050 em intervalos de 10 anos). O gráfico possui uma linha contínua escura que parte de aproximadamente 50 milhões em 1950 e cresce de forma quase linear até atingir pouco menos de 200 milhões em 2010. A partir de 2010, uma linha tracejada continua o gráfico, subindo até atingir um ponto máximo de pouco mais de 200 milhões (aproximadamente 210-215 milhões) por volta do ano 2040, e em seguida apresenta um ligeiro decaimento até 2050.]**
+
+Fonte: IBGE. Projeção da população do Brasil, 2010.
+
+Pelo gráfico apresentado, o intervalo em que se observa aumento da população é
+
+A) 1950 a 2010.
+
+B) 1950 a 2040.
+
+C) 1950 a 2050.
+
+D) 2010 a 2040.
+
+E) 2040 a 2050.

@@ -1,0 +1,17 @@
+Questão 119 - Ciências da Natureza e suas Tecnologias
+
+Os objetos de prata tendem a escurecer com o tempo, em contato com compostos de enxofre, por causa da formação de uma película superficial de sulfeto de prata ($\text{Ag}_2\text{S}$), que é escuro. Um método muito simples para restaurar a superfície original desses objetos é mergulhá-los em uma solução diluída aquecida de hidróxido de sódio ($\text{NaOH}$), contida em uma panela comum de alumínio. A equação química que ilustra esse processo é:
+
+$3\text{ Ag}_2\text{S (s)} + 2\text{ Al (s)} + 8\text{ NaOH (aq)} \rightarrow 6\text{ Ag (s)} + 3\text{ Na}_2\text{S (aq)} + 2\text{ NaAlO}_2\text{ (aq)} + 4\text{ H}_2\text{O (l)}$
+
+A restauração do objeto de prata ocorre por causa do(a)
+
+A) prata, que reduz o enxofre.
+
+B) íon sulfeto, que sofre oxidação.
+
+C) íon hidróxido, que atua como agente oxidante.
+
+D) alumínio, que atua como agente redutor no processo.
+
+E) variação do $\text{pH}$ do meio reacional, que aumenta durante a reação.

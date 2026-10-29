@@ -1,0 +1,21 @@
+Questão 146 - Matemática e suas Tecnologias
+
+Considere o guindaste mostrado nas figuras, em duas posições (1 e 2). Na posição 1, o braço de movimentação forma um ângulo reto com o cabo de aço $CB$ que sustenta uma esfera metálica na sua extremidade inferior.
+
+Na posição 2, o guindaste elevou seu braço de movimentação e o novo ângulo formado entre o braço e o cabo de aço $ED$, que sustenta a bola metálica, é agora igual a $60^\circ$.
+
+[FIGURA: Duas ilustrações lado a lado mostrando um guindaste em duas posições. À esquerda (Posição 1), mostra-se um pilar de sustentação vertical e um braço de movimentação horizontal. Acima do braço, há a indicação de uma distância de 12 m entre os pontos A e C. Do ponto C desce um cabo de aço vertical CB com comprimento de 16 m, terminando em uma esfera metálica B. O ângulo formado no vértice C entre o braço AC e o cabo CB é um ângulo reto. À direita (Posição 2), o braço de movimentação foi inclinado para cima. O segmento do braço entre A e E mede 12 m. Um cabo de aço ED pende do ponto E até a esfera metálica D, mantendo um comprimento vertical equivalente a 12 m em relação ao solo/altura total. O ângulo formado no vértice E entre o braço AE e o cabo ED é de 60°.]
+
+Assuma que os pontos $A$, $B$ e $C$, na posição 1, formam o triângulo $T_1$ e que os pontos $A$, $D$ e $E$, na posição 2, formam o triângulo $T_2$, os quais podem ser classificados em obtusângulo, retângulo ou acutÂngulo, e também em equilátero, isósceles ou escaleno.
+
+Segundo as classificações citadas, os triângulos $T_1$ e $T_2$ são identificados, respectivamente, como
+
+A) retângulo escaleno e retângulo isósceles.
+
+B) acutângulo escaleno e retângulo isósceles.
+
+C) retângulo escaleno e acutângulo escaleno.
+
+D) acutângulo escaleno e acutângulo equilátero.
+
+E) retângulo escaleno e acutângulo equilátero.

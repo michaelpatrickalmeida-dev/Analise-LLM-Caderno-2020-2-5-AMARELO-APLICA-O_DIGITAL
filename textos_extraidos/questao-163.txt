@@ -1,0 +1,19 @@
+Questão 163 - Matemática e suas Tecnologias
+
+Um modelo de telefone celular oferece a opção de desbloquear a tela usando um padrão de toques como senha.
+
+[FIGURA: Captura de tela de um smartphone com a interface de bloqueio. A tela está dividida em 4 quadrantes numerados de 1 a 4, organizados em uma matriz 2x2. O quadrante superior esquerdo contém o número 1, o superior direito o número 2, o inferior esquerdo o número 3 e o inferior direito o número 4. Há linhas brancas diagonais cruzando o centro da tela entre os quadrantes.]
+
+Os toques podem ser feitos livremente nas 4 regiões numeradas da tela, sendo que o usuário pode escolher entre 3, 4 ou 5 toques ao todo.
+
+Qual expressão representa o número total de códigos existentes?
+
+A) $4^5 - 4^4 - 4^3$
+
+B) $4^5 + 4^4 + 4^3$
+
+C) $4^5 \times 4^4 \times 4^3$
+
+D) $(4!)^5$
+
+E) $4^5$

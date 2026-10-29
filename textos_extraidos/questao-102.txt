@@ -1,0 +1,15 @@
+Questão 102 - Ciências da Natureza e suas Tecnologias
+
+A combustão completa de combustíveis fósseis produz água e dióxido de carbono ($CO_2$, massa molar $44\text{ g mol}^{-1}$). A União Europeia estabeleceu, desde 2012, limite de emissão veicular de $130\text{ g de } CO_2$ por quilômetro rodado (valor aplicável a uma média de veículos de um mesmo fabricante), tendo como penalidade multa, caso o fabricante ultrapasse a meta. A gasolina é uma mistura de hidrocarbonetos com cerca de oito carbonos em sua composição, incluindo isômeros do octano ($C_8H_{18}$). Considere que em uma cidade o consumo médio diário dos carros de um fabricante seja de $10\text{ km L}^{-1}$ de gasolina, formada apenas por octano (massa molar $114\text{ g mol}^{-1}$) e que sua densidade seja $0,70\text{ kg L}^{-1}$.
+
+A diferença de emissão de $CO_2$ dos carros desse fabricante em relação ao limite estabelecido na União Europeia é
+
+A) $80\%$ menor.
+
+B) $60\%$ menor.
+
+C) $46\%$ menor.
+
+D) $108\%$ maior.
+
+E) $66\%$ maior.

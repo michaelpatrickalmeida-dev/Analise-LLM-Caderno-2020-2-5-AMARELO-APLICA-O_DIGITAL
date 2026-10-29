@@ -1,0 +1,19 @@
+Questão 94 - Ciências da Natureza e suas Tecnologias
+
+Analise o esquema de uma metodologia utilizada na produção de vacinas contra a hepatite B.
+
+**[FIGURA: Esquema detalhado da produção de vacinas recombinantes contra a hepatite B, dividido em etapas. Do lado esquerdo, mostra-se o isolamento do gene codificante da proteína HB a partir do DNA do vírus da hepatite B, e a extração de um plasmídeo bacteriano de uma bactéria. O gene viral é inserido no plasmídeo, formando um plasmídeo recombinante (sítio de inserção). No centro superior, o plasmídeo recombinante é inserido em uma levedura, gerando uma 'levedura com vetor de expressão'. Do lado direito, o esquema mostra a multiplicação da levedura, seguida pela etapa de 'purificação e extração de HB', que resulta no frasco final rotulado como 'Vacina', contendo a 'Proteína HB'.]**
+
+Disponível em: www.ied.edu.hk. Acesso em: 15 out. 2015 (adaptado).
+
+Nessa vacina, a resposta imune será induzida por um(a)
+
+A) vírus.
+
+B) bactéria.
+
+C) proteína.
+
+D) levedura.
+
+E) ácido nucleico.

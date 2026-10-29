@@ -1,0 +1,30 @@
+Questão 159 - Matemática e suas Tecnologias
+
+Uma empresa avaliou os cinco aparelhos de celulares ($T_1$, $T_2$, $T_3$, $T_4$ e $T_5$) mais vendidos no último ano, nos itens: câmera, custo-benefício, design, desempenho da bateria e tela, representados por $I_1$, $I_2$, $I_3$, $I_4$ e $I_5$, respectivamente. A empresa atribuiu notas de 0 a 10 para cada item avaliado e organizou essas notas em uma matriz $A$, em que cada elemento $a_{ij}$ significa a nota dada pela empresa ao aparelho $T_i$ no item $I_j$. A empresa considera que o melhor aparelho de celular é aquele que obtém a maior soma das notas obtidas nos cinco itens avaliados.
+
+**[FIGURA: Matriz A de ordem 5x5, representada entre colchetes, com os seguintes elementos por linha (de cima para baixo):
+Linha 1 (referente a T₁): 6, 9, 9, 9, 8
+Linha 2 (referente a T₂): 9, 6, 7, 8, 10
+Linha 3 (referente a T₃): 7, 10, 10, 7, 10
+Linha 4 (referente a T₄): 8, 8, 10, 10, 9
+Linha 5 (referente a T₅): 8, 8, 8, 9, 9]**
+
+$$A = \begin{bmatrix}
+6 & 9 & 9 & 9 & 8 \\
+9 & 6 & 7 & 8 & 10 \\
+7 & 10 & 10 & 7 & 10 \\
+8 & 8 & 10 & 10 & 9 \\
+8 & 8 & 8 & 9 & 9
+\end{bmatrix}$$
+
+Com base nessas informações, o aparelho de celular que a empresa avaliou como sendo o melhor é o
+
+A) $T_1$.
+
+B) $T_2$.
+
+C) $T_3$.
+
+D) $T_4$.
+
+E) $T_5$.

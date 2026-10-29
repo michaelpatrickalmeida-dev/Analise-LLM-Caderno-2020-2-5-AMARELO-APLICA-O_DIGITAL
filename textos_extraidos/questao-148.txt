@@ -1,0 +1,17 @@
+Questão 148 - Matemática e suas Tecnologias
+
+O gráfico mostra o resultado do balanço financeiro mensal de uma empresa ao longo de um ano.
+
+[FIGURA: Gráfico de colunas verticais representando o balanço financeiro mensal de uma empresa em milhões de reais ao longo de 12 meses (de Janeiro a Dezembro). O eixo vertical (ordenada) indica os valores em "Milhão de reais", variando de -1,0 a 3,0 com intervalos de 0,5. O eixo horizontal (abscissa) indica os meses do ano: Jan., Fev., Mar., Abr., Maio, Jun., Jul., Ago., Set., Out., Nov., Dez. As colunas e seus respectivos valores exatos acima de cada uma são: Janeiro: -0,6; Fevereiro: 0,2; Março: 0,8; Abril: 0,4; Maio: -0,2; Junho: -0,3; Julho: -0,1; Agosto: -0,4; Setembro: -0,1; Outubro: 0,9; Novembro: 1,1; Dezembro: 2,6.]
+
+Em quantos meses o resultado do balanço financeiro da empresa ficou abaixo da média mensal nesse ano?
+
+A) 6
+
+B) 7
+
+C) 8
+
+D) 9
+
+E) 10

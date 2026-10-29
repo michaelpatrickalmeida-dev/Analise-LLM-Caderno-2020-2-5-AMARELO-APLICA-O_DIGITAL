@@ -1,0 +1,15 @@
+Questão 98 - Ciências da Natureza e suas Tecnologias
+
+No Autódromo de Interlagos, um carro de Fórmula 1 realiza a curva S do Senna numa trajetória curvilínea. Enquanto percorre esse trecho, o velocímetro do carro indica velocidade constante.
+
+Quais são a direção e o sentido da aceleração do carro?
+
+A) Radial, apontada para fora da curva.
+
+B) Radial, apontada para dentro da curva.
+
+C) Aceleração nula, portanto, sem direção nem sentido.
+
+D) Tangencial, apontada no sentido da velocidade do carro.
+
+E) Tangencial, apontada no sentido contrário à velocidade do carro.

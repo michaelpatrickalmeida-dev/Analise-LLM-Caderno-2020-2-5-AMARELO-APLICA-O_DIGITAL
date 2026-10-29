@@ -1,0 +1,19 @@
+Questão 115 - Ciências da Natureza e suas Tecnologias
+
+Em uma das etapas do processo de produção de iogurte, esquematizado na figura, ocorre a mudança da consistência característica do leite, de líquido para gel.
+
+[FIGURA: Fluxograma horizontal e vertical da produção de iogurte contendo cinco etapas numeradas. O processo inicia com "Leite" que recebe adição de "Açúcar" e segue para a etapa "1 Pasteurização". Em seguida, recebe "Leite em pó" e vai para a etapa "2 Resfriamento". O produto resfriado se une ao "Fermento láctico" e passa para a etapa "3 Fermentação". Após a fermentação, o produto segue para a etapa "4 Adição de polpa de frutas com pH neutro" e, por fim, para a etapa "5 Envase".]
+
+ROBERT, N. R. Disponível em: www.respostatecnica.org.br. Acesso em: 26 fev. 2012 (adaptado).
+
+Em qual etapa ocorre essa mudança de consistência?
+
+A) 1
+
+B) 2
+
+C) 3
+
+D) 4
+
+E) 5

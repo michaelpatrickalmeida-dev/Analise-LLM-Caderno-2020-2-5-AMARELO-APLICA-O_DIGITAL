@@ -1,0 +1,15 @@
+Questão 110 - Ciências da Natureza e suas Tecnologias
+
+As populares pilhas zinco-carbono (alcalinas e de Leclanché) são compostas por um invólucro externo de aço (liga de ferro-carbono), um ânodo (zinco metálico), um cátodo (grafita) e um eletrólito ($\text{MnO}_2$ mais $\text{NH}_4\text{Cl}$ ou $\text{KOH}$), contido em uma massa úmida com carbono chamada pasta eletrolítica. Os processos de reciclagem, geralmente propostos para essas pilhas usadas, têm como ponto de partida a moagem (trituração). Na sequência, uma das etapas é a separação do aço, presente no invólucro externo, dos demais componentes.
+
+Que processo aplicado alla pilha moída permite obter essa separação?
+
+(A) Cataçãomanual
+
+(B) Ação de um eletroímã
+
+(C) Calcinação em um forno
+
+(D) Fracionamento por densidade
+
+(E) Dissolução do eletrólito em água

@@ -1,0 +1,17 @@
+Questão 105 - Ciências da Natureza e suas Tecnologias
+
+Para assegurar a boa qualidade de seu produto, uma indústria de vidro analisou um lote de óxido de silício ($\text{SiO}_2$), principal componente do vidro. Para isso, submeteu uma amostra desse óxido ao aquecimento até sua completa fusão e ebulição, obtendo ao final um gráfico de temperatura $\text{T } (^\circ\text{C})$ *versus* tempo $\text{t } (\text{min})$. Após a obtenção do gráfico, o analista concluiu que a amostra encontrava-se pura.
+
+Dados do $\text{SiO}_2$: $\text{T}_{\text{fusão}} = 1\ 600\ ^\circ\text{C}$; $\text{T}_{\text{ebulição}} = 2\ 230\ ^\circ\text{C}$.
+
+Qual foi o gráfico obtido pelo analista?
+
+(A) **[FIGURA: Gráfico de temperatura T (°C) versus tempo t (min) mostrando um sistema de eixos cartesianos. A curva de aquecimento começa na origem, sobe inclinada, atinge o patamar de 1 600 °C onde há uma leve inclinação (não é um patamar horizontal perfeito), continua subindo até o patamar de 2 230 °C que possui uma inclinação semelhante, e depois sobe novamente.]**
+
+(B) **[FIGURA: Gráfico de temperatura T (°C) versus tempo t (min) mostrando uma curva que sobe linearmente da origem até 1 600 °C, segue em linha reta (sem patamar) até 2 230 °C, onde apresenta um patamar horizontal visível (temperatura constante durante o tempo), e depois volta a subir inclinada.]**
+
+(C) **[FIGURA: Gráfico de temperatura T (°C) versus tempo t (min) mostrando uma curva que sobe da origem até 1 600 °C com um patamar inclinado, depois sobe inclinada até 2 230 °C onde apresenta um patamar horizontal visível, e em seguida sobe novamente inclinada.]**
+
+(D) **[FIGURA: Gráfico de temperatura T (°C) versus tempo t (min) mostrando uma curva que sobe linearmente da origem até o patamar de 1 600 °C (com patamar horizontal perfeito), depois sobe inclinada até o patamar de 2 230 °C (também com patamar horizontal perfeito), e em seguida volta a subir inclinada.]**
+
+(E) **[FIGURA: Gráfico de temperatura T (°C) versus tempo t (min) mostrando uma curva que sobe da origem até 1 600 °C com um patamar horizontal nítido, em seguida sobe inclinada até 2 230 °C onde apresenta uma inflexão/patamar inclinado (não horizontal), e depois sobe novamente.]**

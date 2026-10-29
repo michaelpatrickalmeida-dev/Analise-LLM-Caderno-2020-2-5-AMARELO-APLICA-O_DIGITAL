@@ -1,0 +1,27 @@
+Questão 176 - Matemática e suas Tecnologias
+
+Um investidor pretende aplicar R$ 100 000,00 no mercado financeiro. Para isso pesquisou cinco investimentos distintos, aferindo os rendimentos mensais, em real, de cada um deles. Para decidir em qual aplicar seu dinheiro, considerou também a incidência mensal de Imposto de Renda (IR) sobre o respectivo rendimento. Avaliou que o maior retorno financeiro virá da aplicação em um único investimento: aquele em que a diferença entre o rendimento mensal e o imposto que incidir sobre ele seja a maior possível. Os dados levantados pelo investidor sobre rendimento e imposto referentes à aplicação encontram-se a seguir.
+
+**Rendimento de cada investimento por mês**
+
+**[FIGURA: Gráfico de colunas verticais tridimensionais representando o rendimento mensal de cinco investimentos. No eixo horizontal, constam os investimentos I, II, III, IV e V. No eixo vertical, estão representados os valores em reais do rendimento de cada um: Investimento I com R$ 900,00; Investimento II com R$ 700,00; Investimento III com R$ 300,00; Investimento IV com R$ 500,00; e Investimento V com R$ 1 000,00.]**
+
+| Investimento | Incidência de IR sobre o rendimento (por mês) |
+| :---: | :---: |
+| I | 12% |
+| II | 9% |
+| III | 20% |
+| IV | 10% |
+| V | 22% |
+
+O investidor decidiu fazer a aplicação no investimento
+
+A) I.
+
+B) II.
+
+C) III.
+
+D) IV.
+
+E) V.

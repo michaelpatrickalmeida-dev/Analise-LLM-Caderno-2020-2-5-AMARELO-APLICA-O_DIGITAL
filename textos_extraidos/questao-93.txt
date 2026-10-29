@@ -1,0 +1,34 @@
+Questão 93 - Ciências da Natureza e suas Tecnologias
+
+Considere um banco de dados (Quadro 1) que apresenta sequências hipotéticas de DNA de duas áreas de extrativismo permitido (A1 e A2) e duas áreas de conservação (B1 e B2). Um órgão de fiscalização ambiental recebeu uma denúncia anônima de que cinco lojas moveleiras (1, 2, 3, 4 e 5) estariam comercializando produtos fabricados com madeira oriunda de áreas onde a extração é proibida. As sequências de DNA das amostras dos lotes apreendidos nas lojas moveleiras foram determinadas (Quadro 2).
+
+**Quadro 1**
+
+**[FIGURA: Tabela intitulada "Quadro 1" com duas colunas ("Áreas" e "Sequências de DNA"). A coluna "Áreas" lista: "A1 – Extrativismo" (com duas linhas), "A2 – Extrativismo" (com duas linhas), "B1 – Conservação" (com duas linhas) e "B2 – Conservação" (com duas linhas). A coluna "Sequências de DNA" apresenta as respectivas sequências para cada área: 
+- A1: TCC TAA TTG AAA / TCC TAA CTG AGA
+- A2: TCC TAA TGT CAC / TCC AAA TTG CAC
+- B1: TCC AAA TTT CAC / TCC TAA TGT CAC
+- B2: TCC TAA CTG AGA / TCC AAA TTT CAC]**
+
+**Quadro 2**
+
+**[FIGURA: Tabela intitulada "Quadro 2" com duas colunas ("Amostras" e "Sequências de DNA"). A coluna "Amostras" lista os números de 1 a 5. A coluna "Sequências de DNA" apresenta as sequências correspondentes a cada amostra:
+- Amostra 1: TCC TAA CTG AGA
+- Amostra 2: TCC TAA TTG AAA
+- Amostra 3: TCC TAA TGT CAC
+- Amostra 4: TCC AAA TTG CAC
+- Amostra 5: TCC AAA TTT CAC]**
+
+MIRANDA, N. E. O.; ALMEIDA JÚNIOR, E. B. A.; COLLEVATTI, R. G. A genética contra os crimes ambientais: identificação de madeira ilegal proveniente de unidades de conservação utilizando marcador molecular. **Genética na Escola**, v. 9, n. 2, 2014 (adaptado).
+
+Qual loja moveleira comercializa madeira exclusivamente de forma ilegal?
+
+(A) 1
+
+(B) 2
+
+(C) 3
+
+(D) 4
+
+(E) 5

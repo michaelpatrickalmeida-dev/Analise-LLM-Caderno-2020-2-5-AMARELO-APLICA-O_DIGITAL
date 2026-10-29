@@ -1,0 +1,19 @@
+Questão 145 - Matemática e suas Tecnologias
+
+O gráfico mostra as receitas e as despesas de uma empresa nos meses de julho a novembro de um ano. O resultado financeiro, obtido pela diferença entre receita e despesa, pode ser positivo (lucro) ou negativo (prejuízo).
+
+**[FIGURA: Gráfico de colunas agrupadas que apresenta as receitas e as despesas de uma empresa de julho a novembro. O eixo vertical (R$) varia de 0 a 4 500 com intervalos de 500, e o eixo horizontal (Mês) exibe os meses: Julho, Agosto, Setembro, Outubro e Novembro. A legenda indica que as colunas escuras representam a "Receita" e as colunas claras representam a "Despesa". Os valores exatos de cada coluna são: Julho (Receita: 1 200, Despesa: 700), Agosto (Receita: 2 300, Despesa: 3 900), Setembro (Receita: 1 400, Despesa: 1 350), Outubro (Receita: 3 500, Despesa: 1 500), Novembro (Receita: 2 000, Despesa: 3 800).]**
+
+Sabendo que o mês de dezembro é, em geral, de melhores vendas, o dono da empresa faz uma previsão de que a receita naquele mês terá um aumento, em relação ao mês anterior, com a mesma taxa de crescimento ocorrida de setembro para outubro, e que a despesa irá se manter a mesma de novembro.
+
+Se confirmadas as previsões do dono da empresa, o resultado financeiro a ser obtido no semestre de julho a dezembro será um
+
+A) prejuízo de R$ 2 650,00.
+
+B) prejuízo de R$ 850,00.
+
+C) lucro de R$ 7 150,00.
+
+D) lucro de R$ 5 950,00.
+
+E) lucro de R$ 350,00.
